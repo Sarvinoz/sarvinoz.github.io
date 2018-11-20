@@ -1,0 +1,33 @@
+img {
+    position: absolute;
+    top: 0; bottom:0;left: 10; right:0;
+    margin: auto;
+}
+body{	
+	background: url("img.jpg");
+}
+
+li{
+color:#968683;
+font-size: 22pt;
+}
+
+h1 {
+	font-family: cursive;
+	font-size: 30pt;
+	color: white;
+	text-align: center;
+}
+h2{
+	
+	
+	color: #6E6361;
+	
+}
+
+a{
+
+font-size: 22pt;
+
+}
+

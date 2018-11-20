@@ -1,0 +1,30 @@
+body{	
+	background: url("img/background.jpg");
+	background-size: 50%;
+	  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	font-family: cursive;
+	font-size: 30pt;
+	color: #00FFFF;
+	text-align: center;
+}
+
+h2{
+	font-family: Comic Sans MS;
+	font-size: 30pt;
+	color: #00FFFF;
+	
+}
+
+p{
+	font-family: Comic Sans MS;
+	font-size: 15pt;
+	color: #00FFFF;
+	
+}
+
